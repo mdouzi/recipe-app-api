@@ -1,0 +1,15 @@
+.git/
+.gitignore
+
+.docker
+
+
+app/__pycahce__/
+app/*/__pycahce__/
+app/*/*/__pycahce__/
+app/*/*/__pycahce__/
+
+
+.env/
+.venv/
+venv/
